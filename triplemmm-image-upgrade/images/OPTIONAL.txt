@@ -1,0 +1,1 @@
+Optional folder for your own licensed images. The included page currently uses external image URLs.
